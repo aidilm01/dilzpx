@@ -1,5 +1,5 @@
 {
-    "name": "games-wabot",
+    "name": "DILZXP-BOT",
     "version": "0.9.86",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,13 +26,13 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/aidilm01/dilzpx",
     "author": {
-        "name": "BochilGaming"
+        "name": "DUDUL-PORKE"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com/aidilm01/dilzpx.git"
     },
     "bugs": {
         "url": "https://github.com/BochilGaming/games-wabot/issues"
